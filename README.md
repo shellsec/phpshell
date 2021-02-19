@@ -18,3 +18,4 @@
 ### 2020-02-06更新
 - 网上收集到的资源，仅限用于授权渗透和学习研究用途，请勿用于任何违法用途。
 
+[![Stargazers over time](https://starchart.cc/weepsafe/phpshell.svg)](https://starchart.cc/weepsafe/phpshell)
