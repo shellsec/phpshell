@@ -4,6 +4,9 @@
 
 # 安利一下我的另一款工具[BackupScanner](https://github.com/weepsafe/BackupScanner)
 
+### 2021-04-03更新
+- mysql操作兼容php5,php7.增加功能:补丁利用,编码转换,绕过open_basedir.优化部分细节.
+
 ### 2021-01-11更新
 - 大马修复多个bug，多个细节优化，同时可用大马的密码来以一句话的方式直接连接，并增加杀软识别，MSF联动功能。
 
